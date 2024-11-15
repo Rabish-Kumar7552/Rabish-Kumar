@@ -1,2 +1,3 @@
 # Rabish-Kumar
-This is my first repository
+This is my first repository.
+Author - Rabish Kumar
